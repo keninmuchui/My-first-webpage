@@ -1,6 +1,7 @@
 # My-first-webpage
 #### Learn how to code, October 16 2019
-#### By Kenin Muchui
+## Author
+Kenin Muchui
 ## Description
 learning code
 ## Setup/Installation Requirements
